@@ -5,6 +5,8 @@ Dependencie:
 -> MongoDB cloud for database
 -> react-cors to integrate cross origin servers of frontend and backend
 -> Frontend created Vite react app
+-> Tailwind CSS to create a responsive web application with styling
+-> Postman to check APIs functionality
 
 Future developments:
-->To use socket.io to make the app responsive
+->To use socket.io to make the app work in real time
